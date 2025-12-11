@@ -24,7 +24,7 @@ A simple calculator that can perform addition, subtraction, multiplication, and 
 **Skills used**: Python basics, Functions, Conditional
 
 
-**# 2. PASSWORD GENERATOR:
+# 2. PASSWORD GENERATOR:
 Generates strong and secure passwords.  
 **Skills used**: Python, Loops, Random module, Strings
 
