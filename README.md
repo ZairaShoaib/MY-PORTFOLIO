@@ -3,7 +3,7 @@
 # I create Python projects to practice coding and improve my skills.  
 # This portfolio shows some of my work and what I can do with Python.
 
-# ---------------------------------------------- SKILLS:--------------------------------------------
+# SKILLS:
 
 # - Python (Conditional Statements, Loops, Functions, )  
 # - Object-Oriented Programming (OOP) 
@@ -17,7 +17,7 @@
 # - Git & GitHub  
 # - Problem Solving & Logical Thinking
 
-# ---------------------------------------------MY PROJECTS:----------------------------------------
+# MY PROJECTS:
 
 # 1. CALCULATOR:
 # A simple calculator that can perform addition, subtraction, multiplication, and division.  
@@ -39,7 +39,7 @@
 # Skills used: Python, Random module, Conditionals, Loops
 
 
-# ------------------------------------------CONTACT ME:-------------------------------------------
+# CONTACT ME:
 
 # - Email: zairashoaib08@gmail.com  
 # - LinkedIn: [Zaira Shoaib](www.linkedin.com/in/zaira-shoaib)  
