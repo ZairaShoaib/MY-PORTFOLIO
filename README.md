@@ -38,6 +38,10 @@ A console-based app to add, view, and remove tasks.
 Interactive game where you guess a number chosen by the computer.  
 **Skills used**: Python, Random module, Conditionals, Loops
 
+# 5. ELECTRICITY BILL CALCULATOR:
+A simple program that calculates the electricity bill based on the units consumed.
+**Skills used:** Python basics, Variables, Conditional Statements (if-elif-else), Input/Output
+
 
 # CONTACT ME:
 
