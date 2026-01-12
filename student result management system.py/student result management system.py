@@ -4,17 +4,9 @@
 
 # PROBLEM STATEMENT :
 
-# Write a Python program that:
-# Takes basic student information such as name, age, and ID as input.
-# Allows the user to enter the marks of multiple subjects.
-# Validates the marks to ensure they are not negative and do not exceed 100.
-# Stores the marks and displays them in a structured format.
-# Calculates and displays the following:
-# Total marks
-# Average marks
-# Percentage
-# Handles invalid marks or missing data gracefully.
-# Presents the final output as a complete student performance report.
+# Write a Python program that takes a student’s basic details and subject marks, checks that all marks are between
+# 0 and 100, stores them properly, and then shows a clear report with total marks, average, and percentage.
+# If any mark is invalid or missing, the program should handle it safely.
 
 # CODE :
 
